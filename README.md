@@ -4,7 +4,7 @@
 
 ### I am a software engineer, in the medical field from Russia 🇷🇺
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6BCF7&lines=Welcome+to+my+github)][def]
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6432BCF7&lines=Welcome+to+my+github)][def]
 
 [def]: https://git.io/typing-svg
 
